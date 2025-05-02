@@ -1,0 +1,42 @@
+{
+  "web": "https://practicetestautomation.com/practice-test-login/",
+  "login":{
+       "username":{
+        "name_key": "username",
+         "text": "student"
+},
+       "password": {
+         "name_key": "password",
+         "text": "Password123"
+       }
+},
+  "buttons":
+  {
+    "button_submit": "Submit",
+    "button_contact": "Contact"
+  },
+  "validar_texto": {
+    "logged_in_successfully": "Logged In Successfully",
+    "congratulations_message": "Congratulations student. You successfully logged in!"
+},
+"contact_form": {
+  "form_name": {
+     "name_key": "wpforms-161-field_0",
+     "text": "Rellenando name"
+  },
+    "form_last_name": {
+     "name_key": "wpforms-161-field_0-last",
+     "text": "Rellenando last name"
+    },
+    "form_email": {
+     "name_key": "wpforms-161-field_1",
+     "text": "rellenando@email.com"
+  },
+    "form_comentario": {
+     "name_key": "wpforms-161-field_2",
+     "text": "Rellenando comentario o mensaje"
+  }
+}
+
+
+}
